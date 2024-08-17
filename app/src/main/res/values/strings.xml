@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hw19_location</string>
+    <string name="floating_action_button">floating action button</string>
+    <string name="required_permissions">Требуемые разрешения не получены</string>
+    <string name="ask_turn_GPS_network">Включить GPS?</string>
+    <string name="open_location_settings">Включить</string>
+    <string name="Cancel">Выход</string>
+</resources>
